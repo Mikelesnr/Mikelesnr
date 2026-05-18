@@ -20,17 +20,16 @@ I build high-performance, containerized web applications and design AI-driven au
 
 ---
 
-## 📈 Featured Case Studies & Reference Projects
-
 ### 🏨 Summit Guesthouse Platform
 * **Live Link:** [summitguesthouse.org](https://www.summitguesthouse.org)
+* **Sandbox / Testing Environment:** [summit-lodge.onrender.com](https://summit-lodge.onrender.com/) *(Feel free to place test bookings here)*
 * **Stack:** Next.js, React, Tailwind CSS, Email Integration APIs
-* **The Solution:** Transformed a business reliant on walk-in traffic and a fragmented Facebook presence into a 24/7 online storefront. Built a fast, production-ready Next.js web application featuring an integrated booking system and automated direct-to-inbox contact pipelines, ensuring zero missed guest inquiries.
+* **The Solution:** Transformed a business reliant on walk-in traffic and a fragmented Facebook presence into a 24/7 online storefront. Built a fast, production-ready Next.js web application featuring an integrated booking system and automated direct-to-inbox contact pipelines. Provided a fully isolated staging environment for risk-free workflow testing.
 
 ### 🏗️ Zamsam Engineering Platform
 * **Live Link:** [zamsam.org](https://zamsam.org/)
-* **Stack:** NextJs, AI (GPT Integration), WhatsApp Business API, Docker, MySQL
-* **The Solution:** Engineered a full-stack platform for a small business operating without a customer service department. Developed a custom GPT-powered web assistant that handles real-time user inquiries and intelligently filters/routes high-intent leads directly to the company's active WhatsApp line, acting as an automated 24/7 sales agent.
+* **Stack:** Next.js, React, Chatbase (GPT Integration), WhatsApp Business API integration, Tailwind CSS
+* **The Solution:** Engineered a modern Next.js platform for a small business operating without a customer service department. Integrated a custom Chatbase GPT-powered web assistant that handles real-time user inquiries and intelligently filters/routes high-intent leads directly to the company's active WhatsApp line, acting as an automated 24/7 sales agent.
 
 ---
 
