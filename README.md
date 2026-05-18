@@ -3,9 +3,9 @@
 
 I build high-performance, containerized web applications and design AI-driven automation workflows that help businesses scale, streamline operations, and capture missed revenue. 
 
-- 🚀 **Primary Stack:** Laravel + Inertia.js + React & Next.js
-- ⚙️ **Backend & Infrastructure:** Robust APIs built with PHP and Python, deployed securely using Docker and Nginx on Linux environments.
-- 🤖 **Automation:** Transforming standard websites into active business tools using GPT integrations and automated messaging pipelines (WhatsApp/Email).
+- 🚀 **Primary Stack:** PHP / Laravel + Inertia.js + React & Next.js
+- ⚙️ **Backend & Infrastructure:** Robust APIs built with Node.js and Python, deployed securely using Docker and Nginx on Linux environments.
+- 🤖 **Automation:** Transforming standard websites into active business tools using GPT/Gemini integrations and automated messaging pipelines (WhatsApp/Email).
 
 ---
 
@@ -13,12 +13,21 @@ I build high-performance, containerized web applications and design AI-driven au
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | HTML5, CSS3, JavaScript (ES6+), PHP, Python |
-| **Frameworks** | React, Next.js, Laravel, Django, Tailwind CSS |
+| **Languages** | HTML5, CSS3, JavaScript (ES6+), TypeScript, PHP, Python |
+| **Frameworks** | React, Next.js, Laravel, Django, Tailwind CSS v4 |
 | **DevOps & Infra** | Linux (Ubuntu), Docker, Docker Compose, Nginx, Git |
-| **Databases** | MySQL, SQL Server, NoSQL |
+| **Databases & ORM**| PostgreSQL, MySQL, SQL Server, Prisma ORM |
 
 ---
+
+## 📂 Featured Projects
+
+### 🛍️ Handcrafted Haven
+* **Live Storefront:** [handcrafted-haven-pied.vercel.app](https://handcrafted-haven-pied.vercel.app/)
+* **Live Production API:** [handcrafted-haven.onrender.com](https://handcrafted-haven.onrender.com)
+* **Source Repository:** [GitHub Repository](https://github.com/Mikelesnr/handcrafted-haven)
+* **Stack:** Next.js (App Router), TypeScript, Tailwind CSS v4, Express.js, PostgreSQL, Prisma ORM, Swagger UI
+* **The Solution:** A decoupled, full-stack e-commerce marketplace connecting artisans with consumers. Engineered an embedded, context-aware AI assistant (`Haven Guide`) powered by `gemini-2.5-flash` that harvests real-time relational inventory aggregations via Prisma with strict guardrails to prevent hallucinations. Bypassed Render's outbound SMTP port blocks by implementing an API-driven transactional mailing system built securely over HTTPS using Google OAuth2 tokens.
 
 ### 🏨 Summit Guesthouse Platform
 * **Live Link:** [summitguesthouse.org](https://www.summitguesthouse.org)
