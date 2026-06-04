@@ -65,10 +65,10 @@ I build high-performance, containerized web applications and design AI-driven au
 
 ## ⚙️ Development Environment & Workflow
 
-- **Operating System:** Linux / Ubuntu[cite: 1]
-- **Web Server Management:** Custom Nginx configurations & reverse proxy setups[cite: 1]
-- **Containerization:** Managing microservices and isolated database instances using Docker & Docker Compose[cite: 1]
-- **Version Control & CI/CD:** Git, GitHub-driven workflows, and automated deployment pipelines via GitHub Actions[cite: 1]
+- **Operating System:** Linux / Ubuntu
+- **Web Server Management:** Custom Nginx configurations & reverse proxy setups
+- **Containerization:** Managing microservices and isolated database instances using Docker & Docker Compose
+- **Version Control & CI/CD:** Git, GitHub-driven workflows, and automated deployment pipelines via GitHub Actions
 
 ---
 
