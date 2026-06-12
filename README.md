@@ -24,6 +24,12 @@ I build high-performance, containerized web applications and design AI-driven au
 
 ## 📂 Featured Projects
 
+### 🏗️ Aligned Surveyors ERP & CRM Platform
+
+- **Live Company Platform:** [alignedsurveyors.co.zw](https://alignedsurveyors.co.zw/)
+- **Stack:** Laravel, Inertia.js, React, TypeScript, Tailwind CSS, WebSockets, WebRTC, Google Gemini API
+- **The Solution:** Engineered a comprehensive, internal enterprise resource planning (ERP) and project management system. Implemented real-time collaboration features including secure group chats powered by WebSockets and direct, peer-to-peer video calling leveraging WebRTC architecture. Integrated an advanced, database-connected AI assistant powered by Gemini that dynamically reads and interprets internal project metrics and database records to provide intelligent, real-time analytics and user support without full page reloads.
+
 ### 🌐 Advanced Full-Stack Portfolio Platform
 
 - **Live Link:** [michaelmwanza.site](https://michaelmwanza.site/)
@@ -33,11 +39,19 @@ I build high-performance, containerized web applications and design AI-driven au
   - **Dynamic Sandbox Architecture:** Designed an interactive project showcase page that renders live applications inside isolated iframes using stored production URLs, allowing visitors to test live functional features and entire sandbox environments (such as Handcrafted Haven and Summit Guesthouse) directly inside the interface.
   - **Database-Aware Grok Assistant:** Developed a dynamic, context-aware chatbot powered by Grok that directly queries live database records to accurately analyze, discuss, and answer detailed technical user inquiries regarding my entire professional skillset and past project catalog.
 
-### 🏗️ Aligned Surveyors ERP & CRM Platform
+### 💬 TroupeChat Real-Time Messaging Platform (Oct–Nov 2025)
 
-- **Live Company Platform:** [alignedsurveyors.co.zw](https://alignedsurveyors.co.zw/)
-- **Stack:** Laravel, Inertia.js, React, TypeScript, Tailwind CSS, WebSockets, WebRTC, Google Gemini API
-- **The Solution:** Engineered a comprehensive, internal enterprise resource planning (ERP) and project management system. Implemented real-time collaboration features including secure group chats powered by WebSockets and direct, peer-to-peer video calling leveraging WebRTC architecture. Integrated an advanced, database-connected AI assistant powered by Gemini that dynamically reads and interprets internal project metrics and database records to provide intelligent, real-time analytics and user support without full page reloads.
+- **Live Link:** [troupechat.azurewebsites.net](https://troupechat.azurewebsites.net/chats/919f799a-99e5-4868-ba51-4d1f824455cc)
+- **Source Repository:** [GitHub Repository](https://github.com/ElRodFe/CSE325-Team12-Project)
+- **Stack:** C#, Blazor, SignalR
+- **The Solution:** A collaborative team project developed to create a high-performance, real-time messaging application. I contributed to the development of the core messaging engine, utilizing SignalR to facilitate seamless, low-latency communication for both one-on-one direct messages and persistent group chat environments.
+- **Team Collaboration:** Developed in a team environment alongside [@kmkryz](https://github.com/kmkryz), [@ElRodFe](https://github.com/ElRodFe), [@Mtakudzwa](https://github.com/Mtakudzwa), and [@Mikelesnr](https://github.com/Mikelesnr). The project focused on leveraging the C# Blazor ecosystem to build a responsive, scalable chat interface capable of handling multiple concurrent user sessions.
+
+### 🏗️ Zamsam Engineering Platform
+
+- **Live Link:** [zamsam.org](https://zamsam.org/)
+- **Stack:** Next.js, React, Chatbase (GPT Integration), Tailwind CSS
+- **The Solution:** Engineered a modern Next.js platform for a small business operating without a customer service department. Integrated a static Chatbase GPT-powered web assistant that handles real-time user inquiries and qualifies visitors. To optimize bookings, the system generates custom WhatsApp click-to-chat action links, seamlessly routing high-intent clients directly to the company's active messaging line to finalize appointments.
 
 ### 🛍️ Handcrafted Haven
 
@@ -54,12 +68,6 @@ I build high-performance, containerized web applications and design AI-driven au
 - **Sandbox / Testing Environment:** [summit-lodge.onrender.com](https://summit-lodge.onrender.com/) _(Feel free to place test bookings here)_
 - **Stack:** Next.js, React, Tailwind CSS, Email Integration APIs
 - **The Solution:** Transformed a business reliant on walk-in traffic and a fragmented Facebook presence into a 24/7 online storefront. Built a fast, production-ready Next.js web application featuring an integrated booking system and automated direct-to-inbox contact pipelines. Provided a fully isolated staging environment for risk-free workflow testing.
-
-### 🏗️ Zamsam Engineering Platform
-
-- **Live Link:** [zamsam.org](https://zamsam.org/)
-- **Stack:** Next.js, React, Chatbase (GPT Integration), Tailwind CSS
-- **The Solution:** Engineered a modern Next.js platform for a small business operating without a customer service department. Integrated a static Chatbase GPT-powered web assistant that handles real-time user inquiries and qualifies visitors. To optimize bookings, the system generates custom WhatsApp click-to-chat action links, seamlessly routing high-intent clients directly to the company's active messaging line to finalize appointments.
 
 ---
 
