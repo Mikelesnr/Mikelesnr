@@ -1,89 +1,100 @@
 # Hi, I'm Michael Mwanza 👋
 
-### Full-Stack Software Developer & Automation Architect
+### Fullstack Engineer | Laravel, React & TypeScript | AI features on real business data
 
-I build high-performance, containerized web applications and design AI-driven automation workflows that help businesses scale, streamline operations, and capture missed revenue.
+I'm a fullstack engineer with 3+ years of experience shipping production applications for paying clients in Zimbabwe and the SADC region. I build Laravel and React products, deploy them on Linux with Docker and Nginx, and add practical AI: assistants that answer from a business's own data instead of guessing.
 
-- 🚀 **Primary Stack:** PHP / Laravel + Inertia.js + React & Next.js
-- ⚙️ **Backend & Infrastructure:** Robust APIs built with Node.js (Express.js) and Python, deployed securely using Docker and Nginx on Linux environments.
-- 🤖 **Automation & Real-Time:** Transforming standard websites into active business tools using database-aware GPT/Gemini/Grok integrations, real-time WebSockets, and WebRTC audio/video communications.
+**Open to remote roles** (comfortable with European and US-overlap hours, based in Harare, UTC+2) and select contracts.
+
+- 🚀 **Primary stack:** PHP / Laravel, Inertia.js, React, TypeScript, Next.js
+- 🤖 **AI:** RAG assistants over live databases (Gemini, GPT, Grok), multimodal vision, semantic search
+- ⚙️ **Infrastructure:** Docker, Nginx, Linux VPS deployments, GitHub Actions CI/CD
 
 ---
 
 ## 🛠️ Technical Ecosystem
 
-| Category              | Technologies & Tools                                             |
-| :-------------------- | :--------------------------------------------------------------- |
-| **Languages**         | HTML5, CSS3, JavaScript (ES6+), TypeScript, PHP, Python          |
-| **Frameworks**        | React, Next.js, Laravel, Express.js (Node.js), Inertia.js        |
-| **Real-Time & Media** | WebSockets (Laravel Echo / Pusher), WebRTC (Video/Audio Calling) |
-| **DevOps & Infra**    | Linux (Ubuntu), Docker, Docker Compose, Nginx, Git, AWS          |
-| **Databases & ORM**   | MongoDB, PostgreSQL, MySQL, SQL Server, Prisma ORM               |
+| Category              | Technologies & Tools                                                   |
+| :-------------------- | :--------------------------------------------------------------------- |
+| **Languages**         | PHP, TypeScript, JavaScript (ES6+), Python, SQL, HTML5, CSS3           |
+| **Frameworks**        | Laravel, React, Inertia.js, Next.js, Express.js                        |
+| **AI & Automation**   | RAG, LLM integration, prompt engineering, Gemini, Grok, Chatbase, multimodal vision |
+| **Real-Time & Media** | WebSockets (Laravel Reverb / Echo), WebRTC                             |
+| **Payments**          | PayNow integration, async webhooks, idempotent order state             |
+| **DevOps & Infra**    | Linux (Ubuntu), Docker, Docker Compose, Nginx, Git, GitHub Actions, AWS, Vercel |
+| **Databases & ORM**   | PostgreSQL, MySQL, Redis, Prisma ORM                                   |
 
 ---
 
-## 📂 Featured Projects
+## 📂 Client & Product Work
 
-### 🏗️ Aligned Surveyors ERP & CRM Platform
+### 🏗️ Aligned Surveyors ERP & CRM (client, live)
 
-- **Live Company Platform:** [alignedsurveyors.co.zw](https://alignedsurveyors.co.zw/)
-- **Stack:** Laravel, Inertia.js, React, TypeScript, Tailwind CSS, WebSockets, WebRTC, Google Gemini API
-- **The Solution:** Engineered a comprehensive, internal enterprise resource planning (ERP) and project management system. Implemented real-time collaboration features including secure group chats powered by WebSockets and direct, peer-to-peer video calling leveraging WebRTC architecture. Integrated an advanced, database-connected AI assistant powered by Gemini that dynamically reads and interprets internal project metrics and database records to provide intelligent, real-time analytics and user support without full page reloads.
+- **Live:** [alignedsurveyors.co.zw](https://alignedsurveyors.co.zw/)
+- **Stack:** Laravel, Inertia.js, React, JavaScript, Tailwind CSS, WebSockets, WebRTC, Gemini API
+- **What it does:** An internal ERP and project management system for a surveying company, built with Laravel from the start. It includes real-time group chat over WebSockets, peer-to-peer video calls with WebRTC, and a database-aware Gemini assistant that reads project records to give analytics and support without page reloads.
 
-### 🌐 Advanced Full-Stack Portfolio Platform
+### 🧾 Mom & Pop POS (my own SaaS, pre-launch)
 
-- **Live Link:** [michaelmwanza.site](https://michaelmwanza.site/)
-- **Stack:** Laravel, Inertia.js, React, TypeScript, MySQL, Vanilla CSS (Zero External Libraries), Grok API
-- **The Solution:** A fully dynamic, code-free content management platform built from scratch with pure, custom-engineered CSS layout architecture. Features a secure administrative command center with complete CRUD operations for managing professional skills and projects on the fly. Built an integrated video presentation tool allowing instant, dynamic updates to the platform’s homepage introduction via embedded video iframes.
-- **Core Engineering Highpoints:**
-  - **Dynamic Sandbox Architecture:** Designed an interactive project showcase page that renders live applications inside isolated iframes using stored production URLs, allowing visitors to test live functional features and entire sandbox environments (such as Handcrafted Haven and Summit Guesthouse) directly inside the interface.
-  - **Database-Aware Grok Assistant:** Developed a dynamic, context-aware chatbot powered by Grok that directly queries live database records to accurately analyze, discuss, and answer detailed technical user inquiries regarding my entire professional skillset and past project catalog.
+- **Live:** [mompop.online](https://mompop.online)
+- **Code:** [github.com/Mikelesnr/mom-popPOS](https://github.com/Mikelesnr/mom-popPOS)
+- **Stack:** Laravel, React, offline-first sync
+- **What it does:** An offline-first point-of-sale platform for shops, bars and restaurants in Zimbabwe and the SADC region. It keeps processing sales when the network drops, then reconciles and syncs every till at cash-up. This is my own product, built end to end and currently looking for its first users.
 
-### 💬 TroupeChat Real-Time Messaging Platform (Oct–Nov 2025)
+### 🏨 Summit Guesthouse (client, live, rebuilt)
 
-- **Live Link:** [troupechat.azurewebsites.net](https://troupechat.azurewebsites.net/chats/919f799a-99e5-4868-ba51-4d1f824455cc)
-- **Source Repository:** [GitHub Repository](https://github.com/ElRodFe/CSE325-Team12-Project)
-- **Stack:** C#, Blazor, SignalR
-- **The Solution:** A collaborative team project developed to create a high-performance, real-time messaging application. I contributed to the development of the core messaging engine, utilizing SignalR to facilitate seamless, low-latency communication for both one-on-one direct messages and persistent group chat environments.
-- **Team Collaboration:** Developed in a team environment alongside [@kmkryz](https://github.com/kmkryz), [@ElRodFe](https://github.com/ElRodFe), [@Mtakudzwa](https://github.com/Mtakudzwa), and [@Mikelesnr](https://github.com/Mikelesnr). The project focused on leveraging the C# Blazor ecosystem to build a responsive, scalable chat interface capable of handling multiple concurrent user sessions.
+- **Live:** [summitguesthouse.org](https://www.summitguesthouse.org)
+- **Code:** [github.com/Mikelesnr/summit-guesthouse-v2](https://github.com/Mikelesnr/summit-guesthouse-v2)
+- **Stack:** Laravel, Inertia.js, React, TypeScript, PayNow, RAG chatbot
+- **What it does:** Moved a walk-in and Facebook-based business to a 24/7 online storefront. The original 2023 version was a Next.js app. I rebuilt it in 2026 on Laravel, React and Inertia with automated bookings, PayNow payments (secure initiation, webhook confirmation, idempotent order state) and a RAG chatbot.
 
-### 🏗️ Zamsam Engineering Platform
+### 🔧 Zamsam Engineering (client, live, rebuilt)
 
-- **Live Link:** [zamsam.org](https://zamsam.org/)
-- **Stack:** Next.js, React, Chatbase (GPT Integration), Tailwind CSS
-- **The Solution:** Engineered a modern Next.js platform for a small business operating without a customer service department. Integrated a static Chatbase GPT-powered web assistant that handles real-time user inquiries and qualifies visitors. To optimize bookings, the system generates custom WhatsApp click-to-chat action links, seamlessly routing high-intent clients directly to the company's active messaging line to finalize appointments.
-
-### 🛍️ Handcrafted Haven
-
-- **Live Storefront:** [handcrafted-haven-pied.vercel.app](https://handcrafted-haven-pied.vercel.app/)
-- **Live Production API:** [handcrafted-haven.onrender.com](https://handcrafted-haven.onrender.com)
-- **Source Repository:** [GitHub Repository](https://github.com/Mikelesnr/handcrafted-haven)
-- **Stack:** Next.js (App Router), TypeScript, Tailwind CSS v4, Node.js (Express.js), PostgreSQL, Prisma ORM, Swagger UI
-- **The Solution:** A decoupled, full-stack e-commerce marketplace connecting artisans with consumers. Engineered an embedded, database-connected AI assistant (`Haven Guide`) powered by `gemini-2.5-flash` that harvests real-time relational inventory aggregations via Prisma with strict guardrails to prevent hallucinations.
-- **Core Engineering Highpoints:** The chatbot functions as an intelligent virtual shopping assistant capable of making direct, real-time product recommendations based on what is actively available in the database, identifying trending or popular products, and instantly pulling specific artisan profiles so users can easily browse a seller's other unique crafts.
-
-### 🏨 Summit Guesthouse Platform
-
-- **Live Link:** [summitguesthouse.org](https://www.summitguesthouse.org)
-- **Sandbox / Testing Environment:** [summit-lodge.onrender.com](https://summit-lodge.onrender.com/) _(Feel free to place test bookings here)_
-- **Stack:** Next.js, React, Tailwind CSS, Email Integration APIs
-- **The Solution:** Transformed a business reliant on walk-in traffic and a fragmented Facebook presence into a 24/7 online storefront. Built a fast, production-ready Next.js web application featuring an integrated booking system and automated direct-to-inbox contact pipelines. Provided a fully isolated staging environment for risk-free workflow testing.
+- **Live:** [zamsam.org](https://zamsam.org/)
+- **Code:** [github.com/Mikelesnr/zamsam-v2](https://github.com/Mikelesnr/zamsam-v2)
+- **Stack:** Laravel, Inertia.js, React, TypeScript, RAG chatbot, WhatsApp click-to-chat
+- **What it does:** A platform for an engineering company with no customer service department. The first version was a Next.js site with a Chatbase assistant. I upgraded it to Laravel, React and Inertia with a RAG chatbot that qualifies visitors and routes high-intent leads to WhatsApp to book appointments.
 
 ---
 
-## ⚙️ Development Environment & Workflow
+## 🤖 AI Projects
 
-- **Operating System:** Linux / Ubuntu
-- **Web Server Management:** Custom Nginx configurations & reverse proxy setups
-- **Containerization:** Managing microservices and isolated database instances using Docker & Docker Compose
-- **Version Control & CI/CD:** Git, GitHub-driven workflows, and automated deployment pipelines via GitHub Actions
+### 🛍️ Handcrafted Haven (university collaboration, extended with AI, live)
+
+- **Storefront:** [handcrafted-haven-pied.vercel.app](https://handcrafted-haven-pied.vercel.app/)
+- **API:** [handcrafted-haven.onrender.com](https://handcrafted-haven.onrender.com)
+- **Code:** [github.com/Mikelesnr/handcrafted-haven](https://github.com/Mikelesnr/handcrafted-haven)
+- **Stack:** Next.js (App Router), TypeScript, Tailwind CSS v4, Node.js (Express), PostgreSQL, Prisma, Swagger UI, Gemini
+- **What it is:** A decoupled artisan marketplace that began as a team project at university. After graduating I added a Gemini-powered RAG assistant, **Haven Guide**, that answers questions from the live product database with guardrails against hallucination. When an exact match doesn't exist, it suggests related items from what is actually in stock. For example, if someone asks for kitchen knives and there are none, it offers cutting boards or other kitchen items. It is live today and can be reskinned and shipped to a customer as an e-commerce starting point.
+
+### 📷 Pokédex AI (hobby project, multimodal vision)
+
+- **Live:** [pokedex-version-2.netlify.app](https://pokedex-version-2.netlify.app/)
+- **Code:** [github.com/Mikelesnr/my-pokedex](https://github.com/Mikelesnr/my-pokedex)
+- **Stack:** Gemini Vision, PokéAPI, voice input and output, NextJs
+- **What it does:** A hobby project that I use as my testbed for multimodal AI. Point a camera at a Pokémon and Gemini Vision identifies it, then returns stats, types and evolution data by voice. It checks a local cache first, falls back to PokéAPI, and uses Gemini to generate and cache missing entries, so it improves with use. The same pipeline applies to menu allergy detection, receipt scanning and structured data extraction.
 
 ---
 
-## 📫 Let's Connect & Build Something Great
+## 🌐 Portfolio & Team Work
 
-I am available for freelance contracts, full-stack application development, and business automation consulting.
+- **[michaelmwanza.site](https://michaelmwanza.site/)** is a Laravel, Inertia, React and JavaScript portfolio with an admin dashboard for managing skills and projects, live project previews, and a Grok assistant that answers questions from the database about my work.
+- **TroupeChat** (Oct to Nov 2025) was a team project in C#, Blazor and SignalR. I contributed to the real-time messaging engine for direct and group chats. [Live](https://troupechat.azurewebsites.net/chats/919f799a-99e5-4868-ba51-4d1f824455cc) | [Source](https://github.com/ElRodFe/CSE325-Team12-Project)
 
-- 🌐 **Portfolio Site:** [michaelmwanza.site](https://michaelmwanza.site/)
+---
+
+## ⚙️ How I Work
+
+- Linux and Ubuntu daily driver, with Nginx reverse proxy setups
+- Docker and Docker Compose for services and isolated databases
+- Git and GitHub-driven workflows with automated deployment via GitHub Actions
+
+---
+
+## 📫 Let's Connect
+
+I'm looking for a remote fullstack or AI-focused engineering role, and I'm open to select contracts.
+
+- 🌐 **Portfolio:** [michaelmwanza.site](https://michaelmwanza.site/)
 - 💼 **LinkedIn:** [Michael Mwanza](https://www.linkedin.com/in/michael-mwanza-n)
-- 📧 **Email:** mwanza.n.m@gmail.com
+- 📧 **Email:** michael@michaelmwanza.site
